@@ -2,7 +2,7 @@
 
 My favorite anime are **Gundam** and **Chainsaw Man**.
 
-1. Gundam
+## 1. Gundam
 
 Gundam is an anime about giant robots called Mobile Suits. It features battles, wars, and different types of robots.
 
@@ -24,7 +24,7 @@ Chainsaw Man is about a boy named Denji who becomes a Devil Hunter after merging
 - Funny characters
 - Interesting story
 
-My favorite character is Denji because of his chainsaw powers and reze.
+My favorite character is Denji because of his chainsaw powers.
 
 > Both anime are entertaining and fun to watch.
 
